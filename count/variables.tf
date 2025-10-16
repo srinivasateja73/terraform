@@ -7,5 +7,5 @@ default = "Z07050213TL5G4VLTTQ71"
 }
 
 variable "domain_name" {
-    default = "daws86s.fun"
+    default = "dawsteja.store"
 }

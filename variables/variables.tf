@@ -20,7 +20,7 @@ variable "ec2_tags" {
 
 variable "sg_name" {
     type = string
-    default = "allow-all"
+    default = "allow-all-demo"
     # optional to inform what is this variable about
     description = "Security Group Name to attach to EC2 instance"
 }
